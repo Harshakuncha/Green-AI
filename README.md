@@ -34,5 +34,12 @@ Ready to make your AI greener? Follow these steps to get up and running:
 1. Clone the repository:
    ```bash
    git clone https://github.com/BhargavMaganti/Green-AI.git
-   cd Green-AI ```
+   cd Green-AI 
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    
 
