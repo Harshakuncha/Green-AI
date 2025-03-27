@@ -38,8 +38,5 @@ Ready to make your AI greener? Follow these steps to get up and running:
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
     
 
