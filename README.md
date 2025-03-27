@@ -1,7 +1,7 @@
 # 🌱 Green-AI
 
-![Green AI Banner](https://via.placeholder.com/1200x300.png?text=Green+AI+-+Sustainable+Intelligence)  
-*Building a greener future, one algorithm at a time.*
+
+*Energy Efficient Prompt Generation*
 
 Welcome to **Green-AI**, a project dedicated to revolutionizing artificial intelligence by prioritizing sustainability and reducing the environmental footprint of machine learning. Developed by [Bhargav Maganti](https://github.com/BhargavMaganti), this repository is your gateway to eco-conscious AI solutions that don’t compromise on performance.
 
