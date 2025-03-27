@@ -1,0 +1,91 @@
+Dataset,Regressor,RMSE,R² Score
+codellama:7b,Linear Regression,0.0103,0.9594
+codellama:7b,Random Forest,0.0005,0.998
+codellama:7b,XGBoost,0.0003,0.9988
+codellama:7b,SVM,0.0092,0.9638
+codellama:7b,KNN,0.0793,0.6863
+gemma:2b,Linear Regression,0.0005,0.9921
+gemma:2b,Random Forest,0.0002,0.9975
+gemma:2b,XGBoost,0.0002,0.9968
+gemma:2b,SVM,0.0027,0.9602
+gemma:2b,KNN,0.0106,0.8453
+gemma:7b,Linear Regression,0.0023,0.9951
+gemma:7b,Random Forest,0.0013,0.9973
+gemma:7b,XGBoost,0.0016,0.9966
+gemma:7b,SVM,0.0068,0.9855
+gemma:7b,KNN,0.0673,0.8557
+llama3:70b,Linear Regression,0.0548,0.7968
+llama3:70b,Random Forest,0.0261,0.9033
+llama3:70b,XGBoost,0.0391,0.8548
+llama3:70b,SVM,0.3549,-0.3168
+llama3:70b,KNN,0.3889,-0.4427
+llama3,Linear Regression,0.0005,0.999
+llama3,Random Forest,0.0002,0.9997
+llama3,XGBoost,0.0002,0.9995
+llama3,SVM,0.0102,0.9805
+llama3,KNN,0.0948,0.8196
+codellama,Linear Regression,0.0006,0.9982
+codellama,Random Forest,0.0001,0.9998
+codellama,XGBoost,0.0002,0.9995
+codellama,SVM,0.0211,0.9337
+codellama,KNN,0.1484,0.5325
+codellama:7b,Linear Regression,0.0358,0.8583
+codellama:7b,Random Forest,0.014,0.9447
+codellama:7b,XGBoost,0.0064,0.9746
+codellama:7b,SVM,0.0098,0.9612
+codellama:7b,KNN,0.059,0.7666
+gemma:2b,Linear Regression,0.0244,0.645
+gemma:2b,Random Forest,0.0131,0.8091
+gemma:2b,XGBoost,0.0124,0.8192
+gemma:2b,SVM,0.0106,0.8463
+gemma:2b,KNN,0.0174,0.7465
+gemma:7b,Linear Regression,0.1409,0.6981
+gemma:7b,Random Forest,0.0713,0.8473
+gemma:7b,XGBoost,0.0657,0.8592
+gemma:7b,SVM,0.0705,0.8489
+gemma:7b,KNN,0.1177,0.7477
+llama3:70b,Linear Regression,0.0376,0.8607
+llama3:70b,Random Forest,0.0971,0.6397
+llama3:70b,XGBoost,0.132,0.5104
+llama3:70b,SVM,0.0993,0.6315
+llama3:70b,KNN,0.1773,0.3423
+llama3,Linear Regression,0.0439,0.9165
+llama3,Random Forest,0.0286,0.9456
+llama3,XGBoost,0.023,0.9562
+llama3,SVM,0.0176,0.9665
+llama3,KNN,0.0995,0.8106
+codellama,Linear Regression,0.0324,0.8978
+codellama,Random Forest,0.048,0.8487
+codellama,XGBoost,0.0452,0.8578
+codellama,SVM,0.0211,0.9335
+codellama,KNN,0.0907,0.7143
+codellama:7b,Linear Regression,0.0109,0.9569
+codellama:7b,Random Forest,0.0004,0.9984
+codellama:7b,XGBoost,0.0003,0.9988
+codellama:7b,SVM,0.0046,0.9817
+codellama:7b,KNN,0.0012,0.9954
+gemma:2b,Linear Regression,0.0006,0.9914
+gemma:2b,Random Forest,0.0002,0.9972
+gemma:2b,XGBoost,0.0002,0.9966
+gemma:2b,SVM,0.0022,0.9675
+gemma:2b,KNN,0.0002,0.9971
+gemma:7b,Linear Regression,0.0028,0.994
+gemma:7b,Random Forest,0.0013,0.9973
+gemma:7b,XGBoost,0.0016,0.9965
+gemma:7b,SVM,0.0025,0.9946
+gemma:7b,KNN,0.0015,0.9968
+llama3:70b,Linear Regression,0.0243,0.9098
+llama3:70b,Random Forest,0.0228,0.9155
+llama3:70b,XGBoost,0.0492,0.8175
+llama3:70b,SVM,0.047,0.8258
+llama3:70b,KNN,0.0553,0.7948
+llama3,Linear Regression,0.0005,0.999
+llama3,Random Forest,0.0002,0.9997
+llama3,XGBoost,0.0002,0.9997
+llama3,SVM,0.0045,0.9914
+llama3,KNN,0.0001,0.9997
+codellama,Linear Regression,0.0006,0.9981
+codellama,Random Forest,0.0,0.9999
+codellama,XGBoost,0.0001,0.9996
+codellama,SVM,0.0049,0.9845
+codellama,KNN,0.0001,0.9997
