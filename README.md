@@ -21,14 +21,11 @@ AI is transforming the world, but at what cost? Training massive models can cons
 - **Sustainable Best Practices**: Guidelines and examples for eco-friendly AI development.
 - **Open Source**: Free to use, modify, and contribute to—because sustainability is a collective effort!
 
-## 🛠️ Getting Started
-
-Ready to make your AI greener? Follow these steps to get up and running:
 
 ### Prerequisites
 - Python 3.8+
 - Git
-- A passion for sustainability 🌍
+
 
 ### Installation
 1. Clone the repository:
