@@ -32,8 +32,30 @@ AI is transforming the world, but at what cost? Training massive models can cons
    ```bash
    git clone https://github.com/BhargavMaganti/Green-AI.git
    cd Green-AI 
-2. Install dependencies:
+2. Install and Update dependencies:
     ```bash
     pip install -r requirements.txt
+    ```bash
+
+
+# Uninstall existing bitsandbytes and install the latest version
+pip uninstall -y bitsandbytes
+pip install -U bitsandbytes
+```
+
+```bash
+# Install Transformers and other core packages
+pip install -U transformers accelerate sentencepiece
+```
+
+```bash
+# Fix protobuf compatibility issues
+pip install protobuf==3.20.3 --force-reinstall
+```
+
+```bash
+# Install CodeCarbon for energy usage tracking
+pip install codecarbon
+```
     
 
