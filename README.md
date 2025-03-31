@@ -36,5 +36,4 @@ AI is transforming the world, but at what cost? Training massive models can cons
     ```bash
     pip install -r requirements.txt
     
-    
 
