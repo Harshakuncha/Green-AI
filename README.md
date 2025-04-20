@@ -12,14 +12,13 @@ AI is transforming the world, but at what cost? Training massive models can cons
 ### Key Goals
 - **Minimize Energy Consumption**: Optimize algorithms to reduce computational overhead.
 - **Lower Carbon Footprint**: Integrate sustainable practices into AI workflows.
-- **Empower Developers**: Provide accessible tools for building green AI systems.
+
 
 ## 🌟 Features
 
 - **Energy-Efficient Algorithms**: Lightweight models that deliver high accuracy with less power.
 - **Carbon Tracking**: Tools to measure and monitor the environmental impact of your AI projects.
 - **Sustainable Best Practices**: Guidelines and examples for eco-friendly AI development.
-- **Open Source**: Free to use, modify, and contribute to—because sustainability is a collective effort!
 
 
 ### Prerequisites
